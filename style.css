@@ -117,6 +117,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 230px;
 }
 .half-width{
     width: 50%;
