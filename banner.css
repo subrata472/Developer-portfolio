@@ -106,7 +106,6 @@ body{
   font-weight: 900;
   font-style: italic;
 }
-margin: 0%;
 
 }
 h1{
@@ -133,9 +132,4 @@ section{
     padding: 6px 20px;
     border-radius: 3%;
 
-}
-.top-banner{
-    background-image: url(banner.jpeg);
-    background-repeat: no-repeat;
-    padding-right: 10px;
 }
